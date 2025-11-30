@@ -283,7 +283,7 @@ if __name__ == '__main__':
 
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
-    from sam2_lora import insert_mamba_lora
+    from mamba_my import insert_mamba_lora
 
 
     #model = CODSamColorEqualize('weights/sam_vit_b_01ec64.pth', True, True, False).to(device)
