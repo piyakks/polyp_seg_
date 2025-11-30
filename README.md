@@ -26,3 +26,6 @@ python train_Extended_SAM.py
 ```bash
 python tester.py
 ```
+## Result
+![화면 캡처 2025-11-30 141401](https://github.com/user-attachments/assets/6dd7d525-54e1-4ed7-8760-0f456b93f7e3)
+<img width="851" height="547" alt="화면 캡처 2025-11-30 141343" src="https://github.com/user-attachments/assets/8cb0bd84-e9a2-423b-abdd-c73cbc7acf7d" />
