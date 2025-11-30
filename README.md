@@ -11,4 +11,15 @@ SAM과 Mamba구조를 이용한 PEFT(Parameter-Efficient Fine-Tuning)기반 Poly
 ---
 ## training
 1. **기본 가중치 다운로드**  
-[sam_vit_h_4b8939.pth]([https://github.com/hkchengrex/XMem](https://github.com/facebookresearch/segment-anything)) 를 다운로드 후 'checkpoint/` 폴더에 저장.
+[sam_vit_h_4b8939.pth]([https://github.com/hkchengrex/XMem](https://github.com/facebookresearch/segment-anything)) 를 다운로드 후 'checkpoints/` 폴더에 저장.
+checkpoints
+ └─ sam_vit_h_4b8939.pth
+2. 학습
+```bash
+python train_Extended_SAM.py
+```
+## inference
+
+```bash
+python tester.py
+```
