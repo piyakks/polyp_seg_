@@ -29,6 +29,7 @@ python tester.py
 ```
 ## Result
 Total Param:745M
+
 Learnable Param: 114M
 
 <div style="display:flex; gap:8px; align-items:center; justify-content:center;">
