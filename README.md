@@ -15,6 +15,7 @@ SAM과 Mamba구조를 이용한 PEFT(Parameter-Efficient Fine-Tuning)기반 Poly
 ```bash
 checkpoints
  └─ sam_vit_h_4b8939.pth
+```
 2. 학습
 ```bash
 python train_Extended_SAM.py
