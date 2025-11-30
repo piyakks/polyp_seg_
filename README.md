@@ -28,10 +28,12 @@ python train_Extended_SAM.py
 python tester.py
 ```
 ## Result
+Total Param:745M
+Learnable Param: 114M
+
 <div style="display:flex; gap:8px; align-items:center; justify-content:center;">
   <img src="https://github.com/user-attachments/assets/6dd7d525-54e1-4ed7-8760-0f456b93f7e3" alt="이미지1" style="max-width:48%; height:auto;"/>
   <img src="https://github.com/user-attachments/assets/8cb0bd84-e9a2-423b-abdd-c73cbc7acf7d" alt="이미지2" style="max-width:48%; height:auto;"/>
 </div>
-
 
 
