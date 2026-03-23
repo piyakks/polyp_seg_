@@ -1,6 +1,6 @@
 SAM과 Mamba구조를 이용한 PEFT(Parameter-Efficient Fine-Tuning)기반 Polyp Segmentation 모델 
 ## Model_Overview
-<img width="4074" height="1547" alt="Polyp2" src="https://github.com/user-attachments/assets/56927d61-7fc4-4ca7-8268-25c55c649865"/>
+<img width="4074" height="1547" alt="Polyp2" src="https://github.com/user-attachments/assets/70fc5535-d193-4dc6-bf93-c9869f40d573"/>
 
 ## Environment
 - **OS:** Ubuntu 20.04  
